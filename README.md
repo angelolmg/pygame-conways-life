@@ -1,4 +1,4 @@
-# Pygame Conway's GAme of Life
+# Pygame Conway's Game of Life
 <p align="center">
   <img src="gosper-glider-gun.gif" />
 </p>
